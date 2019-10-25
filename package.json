@@ -1,0 +1,17 @@
+{
+  "name": "tutorisl",
+  "version": "1.0.0",
+  "description": "a tutorial bot for tsc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wiler",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "fortnite": "^4.3.2",
+    "fortnite-api": "^3.4.0",
+    "ms": "^2.1.2"
+  }
+}
